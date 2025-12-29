@@ -1,2 +1,4 @@
-go mod init github.com/Willintech/Jack-Henry
-go mod tidy
+module github.com/Willintech/Jack-Henry
+
+go 1.25
+
