@@ -7,7 +7,7 @@ import (
     "net/http"
     "strconv"
 
-    "github.com/<Jack-Henry>/weather-server/weather"
+    "github.com/Willintech/Jack-Henry/weather"
 )
 
 func main() {
