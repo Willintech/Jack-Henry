@@ -1,4 +1,4 @@
 module github.com/Willintech/Jack-Henry
 
-go 1.25
+go 1.25 
 
