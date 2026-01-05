@@ -16,7 +16,7 @@ Prerequisites
 
 2. Run the server
 command: go run main.go
-a prompt will pop up: select "allow"
+a windows security prompt will pop up: select "allow"
 you will see: Starting server on :8080
 
 4. Verify everything works in a new powershell terminal
