@@ -1,4 +1,4 @@
-package weather
+package weather 
 
 import (
     "encoding/json"
@@ -86,3 +86,4 @@ func characterizeTemperature(temp int) string {
         return "moderate"
     }
 }
+
